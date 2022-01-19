@@ -1,5 +1,5 @@
 # BusMapWebsite
-Website hỗ trợ xe Buýt Bình Định 
+Website hỗ trợ xe Buýt Bình Định bao gồm source code, database và báo cáo 
 # Môn học
 Lập trình ứng dụng WEB
 # Thông tin 
