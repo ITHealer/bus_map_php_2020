@@ -1,0 +1,31 @@
+.on{
+	padding: 2px 6px;
+	background: #8de02c;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 14px;
+	font-weight: 500;
+}
+.off{
+	padding: 2px 6px;
+	background: red;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 14px;
+	font-weight: 500;
+}
+.status{
+	 position: relative;
+}
+.status-pos{
+	 position: absolute;
+	 right: 10px;
+	 top: -22px;
+}
+.price-bus{
+	margin-left: 6px;
+}
+
+.find-the-way{
+	height: 145px;
+}

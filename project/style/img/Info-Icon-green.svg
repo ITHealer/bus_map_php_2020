@@ -1,0 +1,17 @@
+<svg id="Component_12_11" data-name="Component 12 – 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="27" height="27" fill="none" stroke="#10af7e" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+    <g id="alert-circle" transform="translate(1.125 1.125)">
+      <g id="Ellipse_10" data-name="Ellipse 10" fill="none" stroke="#10af7e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6">
+        <circle cx="12.375" cy="12.375" r="12.375" stroke="none"/>
+        <circle cx="12.375" cy="12.375" r="11.575" fill="none"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" y2="6.231" transform="translate(12.407 7.131)" fill="none" stroke="#10af7e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="Line_3" data-name="Line 3" transform="translate(12.407 17.673)" fill="none" stroke="#10af7e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

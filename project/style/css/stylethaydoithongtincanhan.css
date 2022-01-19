@@ -1,0 +1,32 @@
+.bg{
+	background-attachment: fixed;
+	background-image: url("../img/Vinbusbglogin.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	overflow: scroll;
+}
+.td{
+	font-size:18px;
+	font-weight: bold;
+}
+
+.change-pass a{
+	text-decoration: none;
+	color: #000;			
+}
+
+.change-pass{
+	border-radius: 5px;
+	border: 1px solid #5EC208;
+	background: #f1f1f1;
+	height: 30px;
+	text-align: center;
+}
+
+.change-pass:hover{
+	background: #F0FBFD;
+}
+
+.error {color: #FF0000; margin-left: 62px;}
+
+input{margin-left: 62px;}

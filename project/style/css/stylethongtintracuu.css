@@ -1,0 +1,79 @@
+.dot{
+	min-height: 8px;
+	min-width: 8px;
+	font-weight: 500;
+	color: #00897b;
+	font-size: 14px;
+	margin-right: 10px;
+}
+.inforoute{
+	font-size: 16px;
+	font-family: Roboto;
+	color: #333;
+	line-height: 2.4;
+}
+
+.barchart__hour{
+	display: inline;
+	line-height: 3;
+	padding: 10px;
+	border-radius: 5px;
+	color: #000;
+	background-color: #f7f7f7;
+	cursor: pointer;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 500;
+	opacity: .8;
+}
+
+.barchart__hour:hover{
+	color: #fff;
+	background-color:#00897b;
+}
+
+.station_info{
+	color: #333;
+	font-size: 16px;
+	font-family: Roboto;
+	line-height: 2.4;
+	display: block;
+	cursor: pointer;
+}
+		
+.modalcar{
+    position: fixed;
+    background: rgba(0,0,0, 0.4);
+    align-items: center;
+    justify-content: center;
+    display: none;
+    animation: modalFaceIn ease 0.5s;
+    position: relative;
+    background: #34b673;
+    width: 168px;
+    border-radius: 12px;
+}
+
+.modalcar.open{
+    display: flex;
+}
+.icon-modalcar{
+	dislay: flex;
+}
+
+.icon-car{
+    width: 20px;
+    height: 20px;
+    padding: 12px;;
+}
+
+@keyframes modalFaceIn{
+    from {
+        opacity: 0;
+        transform: translateY(-140px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

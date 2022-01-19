@@ -1,0 +1,48 @@
+#route-infomation{
+	border:2px solid #34b67a;
+	font-family: Roboto,sans-serif;
+	margin-top:-32px;
+}
+
+.infomation-route{
+	margin-bottom: 26px;
+}
+
+.thongtintuyen-content{
+	margin: 32px;
+}
+
+.table_dstuyen{
+	font-size: 16px;
+	text-align: center;
+	margin: 26px;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.page{
+	background: #f7f7f7;
+	border: 1px solid #ccc;
+	padding: 4px;
+	line-height: 1.6;
+}
+
+td{
+	padding: 6px;
+}
+
+.table-inforoute{
+	background: #F0FBFD;
+	text-align: left;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.title-inforoute{
+	background: #34b67a;
+	color: #fff;
+}

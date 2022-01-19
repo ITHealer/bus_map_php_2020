@@ -1,0 +1,128 @@
+
+.vertical-container{
+    font-family: Nunito-Regular!important;
+    color: #222;
+    cursor: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.box-col{
+    position: relative;
+}
+
+.box-green,
+.box-blue,
+.box-orange{
+    display: flex;
+    background-color: #f09527;
+    box-shadow: 0 2px 9px 0 rgb(240 149 39 / 25%);
+    border-radius: 5px;
+    padding: 1.8rem 2rem 1.8rem 1.8rem;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.box-green-text,
+.box-blue-text,
+.box-orange-text{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 32px;
+    
+}
+
+.box-blue{
+    background-color: #2882e2;
+}
+
+.box-green{
+    background-color: #08c47e;
+}
+
+.func-content{
+    animation: modalFaceIn1 ease 0.5s;
+}
+
+.img-line{
+    margin-top: 6px;
+}
+
+.func-context{
+    margin-top: 12px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.func-container{
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: #fcfdfd;
+    top: 112px;
+	margin: 32px 0;
+	margin-bottom: 20%;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+.func-container .title-func{
+    font-family: Nunito-Bold!important;
+    color: #272727!important;
+    margin-left: 41%;
+    font-size: 32px;
+}
+
+.func-container .func-icon{
+    position: relative;
+    margin-top: 12px;
+}
+
+.func-container .inner-circle{
+    margin-bottom: 0.4rem;
+    border-radius: 50%;
+    border: 1px solid #34b67a;
+    width: 2.625rem;
+    height: 2.625rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.func-container .func-iconsearch:hover{
+    color: #fff;
+}
+.func-container .inner-circle:hover {
+    background: #ccc;
+}
+
+.func-container .title-feature{
+    font-weight: 550;
+    font-size: 16px;
+}
+
+
+.func-container .content-feature{
+    text-align: justify;
+}
+
+.func-container .img-feature{
+    transform: scale(1,1);
+    margin-top: 36px;
+    height: 26rem;
+    width: 22rem;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0, 0.3);
+}
+
+.func-col-1{
+    margin-top: 32px;
+    margin-right: 16px;
+}
+
+.func-col-2{
+    margin-top: 32px;
+    margin-left: 16px;
+}
