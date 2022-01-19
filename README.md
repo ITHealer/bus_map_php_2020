@@ -1,5 +1,7 @@
 # BusMapWebsite
-Website hỗ trợ xe Buýt Bình Định
+Website hỗ trợ xe Buýt Bình Định 
+# Môn học
+Lập trình ứng dụng WEB
 # Thông tin 
 Nhóm phát triển: 
 Ung Minh Hoài - Trưởng nhóm;
