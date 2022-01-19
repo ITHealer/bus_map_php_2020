@@ -6,8 +6,8 @@ Ung Minh Hoài - Trưởng nhóm;
 Nguyễn Thi Thu Liễu;
 Thái Bá Tường;
 # Công nghệ
-Chạy trên: WAMPSERVER
-Cơ sở dữ liệu: SQL
-Server: MySQL
-Ngôn ngữ chính PHP
+Chạy trên: WAMPSERVER;
+Cơ sở dữ liệu: SQL;
+Server: MySQL;
+Ngôn ngữ chính PHP;
 Thiết kế giao diện sử dụng: HTML, CSS, JavaScript, Bootstrap, Ajax
