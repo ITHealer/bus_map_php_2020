@@ -7,8 +7,7 @@ Lập trình ứng dụng WEB
 # Thông tin 
 Nhóm phát triển: 
 Ung Minh Hoài - Trưởng nhóm;
-Nguyễn Thi Thu Liễu;
-Thái Bá Tường;
+
 # Công nghệ
 Chạy trên: WAMPSERVER;
 Cơ sở dữ liệu: SQL;
